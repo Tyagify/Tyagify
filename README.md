@@ -1,5 +1,3 @@
-### Hi there 👋
-
-<!--
-**Tyagify/Tyagify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Tyagify 
+This is my first Git Repository. 
 Author - Abhishek Tyagi
